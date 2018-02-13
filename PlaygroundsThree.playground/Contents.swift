@@ -9,6 +9,6 @@ fruitNames = ["Orange", "Apples", "Watermelon"]
 print(fruitNames)
 
 for name in fruitNames {
-    print("I like to eat" + name)
+    print("I like to eat " + name)
 }
 print(fruitNames[0])
